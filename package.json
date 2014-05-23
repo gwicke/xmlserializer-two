@@ -1,5 +1,5 @@
 {
-  "name": "XMLSerializer",
+  "name": "xmlserializer-two",
   "version": "0.1.0",
   "description": "A stand-alone XMLSerializer implementation, intended for polyglot markup serialization of HTML DOMs",
   "main": "XMLSerializer.js",
