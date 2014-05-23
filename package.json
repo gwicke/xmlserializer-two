@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gwicke/XMLSerializer.git"
+    "url": "git://github.com/gwicke/xmlserializer-two.git"
   },
   "author": "Gabriel Wicke <gwicke@wikimedia.org>",
   "license": "GPL",
   "bugs": {
-    "url": "https://github.com/gwicke/XMLSerializer/issues"
+    "url": "https://github.com/gwicke/xmlserializer-two/issues"
   }
 }
