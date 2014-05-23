@@ -1,0 +1,18 @@
+{
+  "name": "XMLSerializer",
+  "version": "0.1.0",
+  "description": "A stand-alone XMLSerializer implementation, intended for polyglot markup serialization of HTML DOMs",
+  "main": "XMLSerializer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gwicke/XMLSerializer.git"
+  },
+  "author": "Gabriel Wicke <gwicke@wikimedia.org>",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/gwicke/XMLSerializer/issues"
+  }
+}
